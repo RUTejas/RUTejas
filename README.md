@@ -21,8 +21,4 @@ Hi, I’m Tejas R U👋    <br><br>🎓 Student at Jain University<br>📚 Branc
 ---
 [![](https://visitcount.itsvg.in/api?id=RUTejas&icon=3&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Back my journey) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
